@@ -14,22 +14,35 @@ All the data provided in these folders is of JSON format.
 
 ## Table of Contents
   1.Prerequisites
+  
   2.Installation
+  
   3.Usage
+  
   4.Features
+  
   5.Contributing
+  
   6.Contact
 
 ## Prerequisites
 Python -- Programming Language
+
 plotly -- Python Module that is used for data visualization and supports various graphs
+
 pandas -- Python Library for Data Visualization
+
 streamlit -- Python framework to rapidly build and share beautiful machine learning and data science web apps
+
 git.repo.base -- Python Module that helps to clone the github Repository and the store the data locally
+
 mysql.connector -- Python Library that enables Python programs to access MySQL databases
+
 json -- Python Library that helps parse JSON into a Python dictionary/list, in short open JSON files using Python
+
 os -- Python Module that provides functions for interacting with the operating system
 Installation
+
 To run this project, you need to install the following packages:
 
  pip install pandas
